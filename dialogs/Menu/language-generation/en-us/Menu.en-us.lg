@@ -1,0 +1,12 @@
+[import](common.lg)
+
+# SendActivity_8hFkYC()
+[Activity
+    Text = ${SendActivity_8hFkYC_text()}
+]
+
+# SendActivity_8hFkYC_text()
+- ```Today's menu
+ \- Pizza
+ \- Burger and fries
+ \- Chicken sandwich```
